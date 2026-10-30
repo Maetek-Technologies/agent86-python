@@ -1,4 +1,12 @@
-# agent86
+# agent86 (Python, archived)
+
+> [!IMPORTANT]
+> **This Python implementation is archived and no longer developed.** agent86 is now
+> [Maetek-Technologies/agent86](https://github.com/Maetek-Technologies/agent86), a Rust rewrite that
+> ships as one native binary and reads the same config, sessions, memory, traces, and keyring entries.
+> To switch, `pip uninstall agent86` (or `pipx uninstall agent86`), then install agent86 from its
+> [releases](https://github.com/Maetek-Technologies/agent86/releases). Nothing in `~/.agent86` needs to change.
+
 
 [![CI](https://github.com/tdfleming/agent86CLI/actions/workflows/ci.yml/badge.svg)](https://github.com/tdfleming/agent86CLI/actions/workflows/ci.yml)
 
